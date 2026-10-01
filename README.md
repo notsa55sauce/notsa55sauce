@@ -1,16 +1,13 @@
-## Hi there 👋
+### yo, i'm notsa55sauce 👋
 
-<!--
-**notsa55sauce/notsa55sauce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer building reliable APIs and distributed services. Go & Python. Based in Indonesia.
 
-Here are some ideas to get you started:
+- 💬 Ask me about FastAPI
+- 🛠️ Tinkering with side projects on weekends
+- 📚 Currently reading whatever the docs link to
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=notsa55sauce&hide_border=true&theme=radical" alt="Commit streak" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=notsa55sauce&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical" alt="notsa55sauce GitHub stats" />
+
+<img src="https://img.shields.io/badge/PostgreSQL-7aa2f7?style=for-the-badge&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Docker-7aa2f7?style=for-the-badge&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Python-7aa2f7?style=for-the-badge&logoColor=white" alt="Python" />
